@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For SAA1064
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SAA1064		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clear		KEYWORD2
+test		KEYWORD2
+multiplexOn	KEYWORD2
+multiplexOff	KEYWORD2
+setBrightness	KEYWORD2
+setDP		KEYWORD2
+send		KEYWORD2
+sendHex		KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BRIGHT_HI	LITERAL1
+BRIGHT_MED	LITERAL1
+BRIGHT_LOW	LITERAL1
+TEST_ALL	LITERAL1
+MULTIPLEX	LITERAL1
+POINT		LITERAL1
